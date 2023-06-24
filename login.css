@@ -1,0 +1,14 @@
+form{
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    width: fit-content;
+    margin: auto;
+    align-items: center;
+}
+input{
+    display: block;
+}
+*{
+    background: beige;
+}
